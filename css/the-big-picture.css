@@ -6,7 +6,8 @@
 
 body {
  /* background: url('http://placehold.it/1920x1080') no-repeat center center fixed; */
- background: url('https://i.ytimg.com/vi/XXODASdg8s4/maxresdefault.jpg') no-repeat center center fixed;
+/* background: url('https://i.ytimg.com/vi/XXODASdg8s4/maxresdefault.jpg') no-repeat center center fixed; */
+    background: url('https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/BKaAXTX/chelsea-14th-street-manhattan-nyc-as-seen-from-the-highline_7y_xipul__F0000.png') no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
